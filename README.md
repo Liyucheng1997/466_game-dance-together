@@ -1,5 +1,7 @@
 # 星律舞团 BeatStar
 
+**在线试玩：https://liyucheng1997.github.io/466_game-dance-together/**
+
 网页版 3D 节奏舞蹈游戏：方向键输入箭头序列、空格踩点，舞者随判定在霓虹舞台上起舞。
 
 ## 运行
